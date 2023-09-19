@@ -57,3 +57,5 @@ To achieve the sorting goal, you have the following operations at your disposal:
 4. Push Swap will display a series of instructions that, when executed, will sort the numbers in stack a.
 
 # Example
+
+<img width="630" alt="Screen Shot 2023-09-19 at 3 22 07 PM" src="https://github.com/eetukoljonen/push_swap/assets/120648288/21e24966-d8d5-4893-b9ec-efa4fdb54f78">
